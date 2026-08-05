@@ -19,7 +19,7 @@ so operators of any size can run their own mail platform without fear.
 
 ## Sponsorship
 
-Yarilo is independent open source. If it saves you money on mailbox licenses,
+Yarilo is independent open source. If it is useful to you or your business,
 consider [supporting the project on Ko-fi](https://ko-fi.com/yarilomail) —
 it funds development, testing infrastructure and long-term maintenance.
 
