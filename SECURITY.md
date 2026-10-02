@@ -8,8 +8,8 @@ disclosed.
 
 Use one of these channels:
 
-- the **Report a vulnerability** button on the repository's Security tab,
-  where the repository offers it (preferred)
+- the **Report a vulnerability** button on the repository's Security tab
+  (preferred)
 - email to [security@yarilomail.org](mailto:security@yarilomail.org)
 
 Include the affected version, the relevant part of the configuration, steps
